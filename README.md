@@ -100,7 +100,7 @@ Throughout the summer, you'll use repl.it to write programs. You should sync the
 - [Jiamin "Jenna" Lin](https://github.com/hunter-teacher-cert/cohort-3-summer-work-jenna0704)
 - [Samuel David "Sam" Lojacono](https://github.com/hunter-teacher-cert/cohort-3-summer-work-sdl5384)
 - [Christine Marra](https://github.com/hunter-teacher-cert/cohort-3-summer-work-chrismarra21)
-- [Kirk Martin]()
+- [Kirk Martin](https://github.com/hunter-teacher-cert/cohort-3-summer-work-Kirk-Martin)
 - [Katherine (Kate) Maschmeyer](https://github.com/hunter-teacher-cert/cohort-3-summer-work-Kmaschm)
 - [Sarah McCoy](https://github.com/hunter-teacher-cert/cohort-3-summer-work-sarahkmccoy)
 - [Parmanand Mohanlall](https://github.com/hunter-teacher-cert/cohort-3-summer-work-ParmanandM1)
@@ -131,3 +131,6 @@ Throughout the summer, you'll use repl.it to write programs. You should sync the
 - [Yenmin Young](https://github.com/hunter-teacher-cert/cohort-3-summer-work-yenminyoung)
 - [Qianhui Vanessa Zou](https://github.com/hunter-teacher-cert/cohort-3-summer-work-qvzou)
 - [William Sakas](https://github.com/hunter-teacher-cert/cohort-3-summer-work-wsakas)
+
+* * *
+
