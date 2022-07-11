@@ -6,7 +6,7 @@
 - Main web page / repo for data structures: https://github.com/hunter-teacher-cert/csci70300-summer2022
 
 ## SEDC71900 - Methods 1
-- Main web page / repo for Methods I: TBD
+- Main web page / repo for Methods I: https://github.com/hunter-teacher-cert/sedc71900-summer-2022
 
 ## CSCI70900 - Programming in a high level language
 
